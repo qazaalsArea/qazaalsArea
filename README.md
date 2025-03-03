@@ -1,2 +1,2 @@
-I’m qazaal
-Learner.
+-I’m qazaal.
+-Learner.
